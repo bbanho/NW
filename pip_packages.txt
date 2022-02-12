@@ -1,0 +1,9 @@
+numpy
+scipy
+sklearn
+scikit-image
+#
+phoenix
+gooey
+#
+
